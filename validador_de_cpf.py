@@ -47,5 +47,4 @@ def validador(str):
        return print('CPF INVÁLIDO')
 
 
-print(validador(str))
-
+validador(str)
